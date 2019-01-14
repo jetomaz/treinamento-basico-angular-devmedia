@@ -1,2 +1,4 @@
-# treinamento-basico-angular-devmedia
-Treinamento Básico de Angular Pelo Portal DevMedia.com.br
+# TreinamentoAngular
+
+Treimaneto realizado pelo site DevMedia.com.br, este repositorio tem todos os codigos desenvolvidos
+durantre o treinamento basico de angular, para a criação de uma SPA.
